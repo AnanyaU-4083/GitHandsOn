@@ -1,0 +1,4 @@
+name:ananya
+role: SDT
+skill: git
+company:WINWIRE
